@@ -1,0 +1,3 @@
+-- UrbanFlow
+-- Creación de tabla externa en BigQuery
+-- Fuente: datos CURATED almacenados en Google Cloud Storage
